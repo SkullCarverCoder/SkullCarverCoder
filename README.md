@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working in [Cryptomarket Chile](https://www.cryptomkt.com/en/)
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **Golang** and **Rust**
 
 - 👯 I’m looking to collaborate on **FOSS and OS libraries for Python,Golang, Elixir**
 
